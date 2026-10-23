@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://Varsha-Hanmanagari@github.com/Varsha-Hanmanagari/geo-iot-telemetry-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api/issues"
+  },
+  "homepage": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api#readme"
 }
