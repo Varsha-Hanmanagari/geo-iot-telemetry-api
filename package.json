@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api/issues"
   },
-  "homepage": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api#readme"
+  "homepage": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
