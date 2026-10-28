@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api/issues"
   },
-  "homepage": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api#readme"
+  "homepage": "https://github.com/Varsha-Hanmanagari/geo-iot-telemetry-api#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
